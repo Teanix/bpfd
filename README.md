@@ -1,3 +1,6 @@
+## 说明
+目前已经弃用，社区正在研究在Android设备上采用bpftrace的方法，但是可以借鉴该项目的内容
+
 ## BPFd (Berkeley Packet Filter Daemon) - Deprecated, see below.
 
 Deprecation Warning:
